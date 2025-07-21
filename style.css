@@ -342,7 +342,7 @@ ol li {
 }
 
 ul li.active a {
-  color: #daa556;
+  color:black;
 }
 
 ul li:last-child,
